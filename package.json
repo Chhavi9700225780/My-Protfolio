@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
+  "homepage": "https://github.com/Chhavi9700225780.github.io/My-Protfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
